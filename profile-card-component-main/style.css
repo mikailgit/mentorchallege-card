@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background-color: hsl(185, 75%, 39%)
+    ;
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+    background-image: url(images/bg-pattern-top.svg);   
+    background-image: url(images/bg-pattern-bottom.svg);
+    
+
+}
+
+.card{
+
+    
+    
+}
+
+.card2{
+
+    width: 30%;
+    display: inline-block;
+    background-color: white;
+    margin: 100px auto ;
+border-radius: 3%;
+    position: relative;
+    
+   
+
+}
+
+.victorimg{
+    border-radius: 100%;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    position: absolute;
+    top: 108px;
+    right: 138px;
+    
+}
+
+
+.card2h3{
+    padding-top: 60px;
+    display: inline-block;
+}
+
+
+.cardh3-26{
+    display: inline-block;
+    font-weight: lighter;
+    font-style: normal;
+    line-height: 0;
+    color: lightslategray;
+}
+
+.card2 h4{
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+    font-weight: lighter;
+    font-style: normal;
+    
+    color: lightslategray;
+    font-size: 18px
+;
+}
+
+
+.card3{
+    margin: 30px auto 15px;
+}
+.card3h3{
+
+    display: inline-block;
+    padding: 0 10px 0 10px;
+    margin: 0 15px;
+    
+
+}
+
+.ems{
+
+    font-weight: lighter;
+    font-style: normal;
+    line-height: 3;
+    color: lightslategray;
+    font-size: 12px;
+}
+
+
+
+
+.svgcard{
+
+    width: 100%;
+    border-radius: 3%;
+
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 100px) {
+
+
+    .card2{
+         width: 23.4375rem;
+         
+         
+    }
+
+
+
+
+
+}
+
